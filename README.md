@@ -1,2 +1,2 @@
 # Quantum-Sandbox
-A variety of quantum computing experiments to get to grips with IBM's Qiskit and QI as a whole. 
+A variety of QI projects, using Qiskit, to teach myself Quantum Computing. 
