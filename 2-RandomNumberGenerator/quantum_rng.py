@@ -149,6 +149,8 @@ if __name__ == "__main__":
     # API_TOKEN = input("Enter your IBM Quantum API Token: ")
     # CRN = input("Enter your IBM Quantum Cloud Instance Number: ")
 
+    sys.path.append(os.path.abspath(os.path.join(os.getcwd(), '..')))
+    from ibmq_connect import ibmq_connect_least_busy
     backend = ibmq_connect_least_busy(API_TOKEN, CRN)
 
     repeat = 'y'
