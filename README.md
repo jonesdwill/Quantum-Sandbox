@@ -10,15 +10,12 @@ This repo is a diary for quantum computing learning and experiment. It contains 
  - **Cryptography**: Implementation of Shor's algorithm to factorise 15 on QC.
 
 ## Dependencies
-If you want to use any of the Scripts or packages in this repo I reccomend setting up a virtual environment to use as your interpreter. To do this: 
+If you want to use any of the Scripts or packages in this repo I reccomend setting up a virtual environment to use as your interpreter. Run this from the project directory, or wherever you want to store your environments. On windows: 
 <pre> 
-:: Create virtual environment
 python -m venv venv
 
-:: Activate the virtual environment
 venv\Scripts\activate
 
-:: Install dependencies
 pip install -r requirements.txt
 <\pre>
 
