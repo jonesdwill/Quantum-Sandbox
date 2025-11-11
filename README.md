@@ -1,5 +1,5 @@
 # Quantum-Sandbox
-This repo is a diary for quantum computing learning and experiment. It contains the following:
+This repo is a diary for quantum computing learning and experiments. It contains the following:
  - **Coinflip**: Basic manipulation of qubit and familiarity with IBM backend. 
  - **Random Number Generator**:  What it says on the tin. Can generate large random numbers.
       - **quantum_rng.py**: A more formal Script. Can be used to random integers in some range.
