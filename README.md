@@ -12,11 +12,11 @@ This repo is a diary for quantum computing learning and experiment. It contains 
 ## Dependencies
 If you want to use any of the Scripts or packages in this repo I reccomend setting up a virtual environment to use as your interpreter. Run this from the project directory, or wherever you want to store your environments. On windows: 
 
-'''
+```
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-'''
+```
 
 
 ## References
