@@ -14,7 +14,7 @@ If you want to use any of the Scripts or packages in this repo I reccomend setti
 ```
 py -m pip install venv
 ```
-Navigate to project directory:
+Navigate to project directory, or wherever you want to store your virtual environment:
 ```
 cd path\to\project
 ```
