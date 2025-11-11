@@ -24,6 +24,6 @@ py -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
-You can run the scripts from this virtual environment (when activated), or change the interpreter to use this venv in your IDE. 
+You can run the scripts from this virtual environment (when activated), or change the interpreter in your IDE. 
 
 ## References
