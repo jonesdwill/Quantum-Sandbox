@@ -9,4 +9,17 @@ This repo is a diary for quantum computing learning and experiment. It contains 
       - Want to adapt to graph theory to solve other problems such as travelling salesman.
  - **Cryptography**: Implementation of Shor's algorithm to factorise 15 on QC.
 
+## Dependencies
+If you want to use any of the Scripts or packages in this repo I reccomend setting up a virtual environment to use as your interpreter. To do this: 
+`
+:: Create virtual environment
+python -m venv venv
+
+:: Activate the virtual environment
+venv\Scripts\activate
+
+:: Install dependencies
+pip install -r requirements.txt
+`
+
 ## References
