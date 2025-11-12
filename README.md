@@ -27,3 +27,12 @@ pip install -r requirements.txt
 You can run the scripts from this virtual environment (when activated), or change the interpreter to use this venv in your IDE. 
 
 ## References
+
+- Nielsen, M. A. & Chuang, I. L. *Quantum Computation and Quantum Information*. 10th Anniversary Edition, Cambridge University Press (2011).  
+- Shor, P. W. “Algorithms for quantum computation: discrete logarithms and factoring.” *26th Annual Symposium on Foundations of Computer Science (FOCS)*, 124‑134 (1994).  
+- Grover, L. K. “A fast quantum mechanical algorithm for database search.” *Proceedings of the 28th Annual ACM Symposium on the Theory of Computing (STOC)*, 212‑219 (1996).  
+- IBM Quantum Experience — IBM’s cloud quantum computing platform and documentation. [https://quantum-computing.ibm.com](https://quantum-computing.ibm.com)  
+- Qiskit Documentation — The open-source quantum computing SDK from IBM. [https://qiskit.org/documentation](https://qiskit.org/documentation)  
+- 3Blue1Brown, *Quantum Computing Series* — A visual introduction to quantum computing concepts. [https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)  
+- Quantum Country — A mnemonic medium for learning quantum computing and related concepts. [https://quantum.country](https://quantum.country)  
+
