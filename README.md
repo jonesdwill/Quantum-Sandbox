@@ -1,13 +1,23 @@
 # Quantum-Sandbox
-This repo is a diary for quantum computing learning and experiments. It contains the following:
- - **Coinflip**: Basic manipulation of qubit and familiarity with IBM backend. 
- - **Random Number Generator**:  What it says on the tin. Can generate large random numbers.
-      - **quantum_rng.py**: A more formal Script. Can be used to random integers in some range.
-      - Want to add complex, float and string generation, and turn into a package.
- - **Grover's Algorithm**: Can be used to perform a search of an unstructured search space in $O(\sqrt{N})$.
-      - **grovers_algorithm.py** Proof of concept set of functions to find target integers in a list.
-      - Want to adapt to graph theory to solve other problems such as travelling salesman.
- - **Cryptography**: Implementation of Shor's algorithm to factorise 15 on QC.
+This repository serves as a diary for learning and experimenting with quantum computing. I am not an expert, and am mainly using this to consolidate my learning.
+
+- **`1-CoinFlip.ipynb`**: A basic qubit manipulation experiment to gain familiarity with IBM Quantum backends.  
+
+
+- **`2-RandomNumberGenerator.ipynb`**: Generates quantum random numbers.  
+  - **`quantum_rng.py`**: A more formal script for generating random integers within a specified range.  
+  - Future plans: extend to generate complex numbers, floats, and strings, and eventually package as a reusable library.  
+
+
+- **`3-GroversAlgorithm.ipynb`**: Demonstrates a quantum search over an unstructured space in $O(\sqrt{N})$.  
+  - **`grovers_algorithm.py`**: Proof-of-concept functions to find target integers in a list.  
+  - Future plans: adapt for graph-theory problems, such as the Travelling Salesman Problem.  
+
+
+- **`4-ShorsAlgorithm.ipynb`**: Implementation of Shor's algorithm to factorize 15 on a quantum computer.
+
+
+- **`ibmq_connect.py`**: Connects to IBM runtime service.
 
 ## Dependencies
 If you want to use any of the Scripts in this repo I reccomend setting up a virtual environment to use as your interpreter. If you don't have it already, install venv:
