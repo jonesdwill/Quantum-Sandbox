@@ -13,6 +13,7 @@ This repository serves as a diary for learning and experimenting with quantum co
   - **`grovers_algorithm.py`**: Proof-of-concept functions to find target integers in a list.  
   - Future plans: adapt for graph-theory problems, such as the Travelling Salesman Problem.  
 
+
 - **`4-QFT.ipynb`**: Implementation of Quantum Fourier Transform.
   - **`qft.py`**: Script containing qft functionality for later use.
 
