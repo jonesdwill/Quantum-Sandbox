@@ -66,7 +66,7 @@ def oracle_operator(n: int, targets: list[str]):
     return oracle
 
 
-def diffusion_operator(n):
+def diffusion_operator(n: int):
     '''
     Diffusion operator function to reflect in the |00..0> basis.
     :param n: number of qubits
