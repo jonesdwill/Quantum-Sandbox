@@ -16,6 +16,7 @@ This repository serves as a diary for learning and experimenting with quantum co
 - **`4-QFT.ipynb`**: Implementation of Quantum Fourier Transform.
   - **`qft.py`**: Script containing qft functionality for later use.
 
+
 - **`5-ShorsAlgorithm.ipynb`**: Implementation of Shor's algorithm to factorize 15 on a quantum computer.
 
 
