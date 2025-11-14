@@ -44,5 +44,6 @@ You can run the scripts from this virtual environment (when activated), or chang
 - IBM Quantum Experience — IBM’s cloud quantum computing platform and documentation. [https://quantum-computing.ibm.com](https://quantum-computing.ibm.com)  
 - Qiskit Documentation — The open-source quantum computing SDK from IBM. [https://qiskit.org/documentation](https://qiskit.org/documentation)  
 - 3Blue1Brown, *Quantum Computing Series* — A visual introduction to quantum computing concepts. [https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)  
-- Quantum Country — A mnemonic medium for learning quantum computing and related concepts. [https://quantum.country](https://quantum.country)  
-
+- Quantum Country — A mnemonic medium for learning quantum computing and related concepts. [https://quantum.country](https://quantum.country)
+- Mastriani, M. Quantum Fourier transform is the building block for creating entanglement. PMC Article (2021). Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC8593191/
+- PennyLane Team. Intro to Quantum Fourier Transform. Tutorial (2024). Link: https://pennylane.ai/qml/demos/tutorial_qft
