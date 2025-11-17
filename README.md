@@ -19,6 +19,7 @@ This repository serves as a diary for learning and experimenting with quantum co
 
 
 - **`5-ShorsAlgorithm.ipynb`**: Implementation of Shor's algorithm to factorize 15 on a quantum computer.
+  - **`shors_algorithm.py`**: Script containing shors functionality.
 
 
 - **`ibmq_connect.py`**: Connects to IBM runtime service.
