@@ -1,5 +1,5 @@
 # Quantum-Sandbox
-This repository is a person diary for learning and experimenting with quantum computing. I have written it to be presented as a way of consolidating my knowledge and to refer back to. 
+This repo is a personal diary for learning and experimenting with quantum computing. I have written it to be presented as a way of consolidating my knowledge and to refer back to. 
 
 - **`1-CoinFlip.ipynb`**: A basic qubit manipulation experiment to gain familiarity with IBM Quantum backends.  
 
